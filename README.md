@@ -131,4 +131,6 @@ Contact
 
 Contact David Hill (hilld-at-ucalgary-dot-ca) if you have questions.
 
+David Hill's web site has Gnuspeech-specific papers: http://pages.cpsc.ucalgary.ca/~hill
+
 The developers disclaim any warranty of merchantability or fitness for a particular purpose in connection with the User's acquisition and use of units of any software. Acqisition or use of any of the software or documentation indicates acceptance by the User of this condition.
